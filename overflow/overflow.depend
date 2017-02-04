@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1486240222 source:c:\users\sting\documents\github\ctf-challenges\overflow\main.cpp
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<iostream>
+
