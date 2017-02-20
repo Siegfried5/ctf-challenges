@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
    char mybuffer[30];
    cout<<"please enter the password: ";
    gets(mybuffer);
-   if(strcmp(mybuffer, "b3tY0ucanTgu3ssM3333")){
+   if(strcmp(mybuffer, "demokeyfks")){
         cout<<endl<<"Access Denied" << endl;
     } else {
         cout<<endl <<"Access Granted"<<endl;
